@@ -41,9 +41,9 @@ yarn dev
 
 ## Screenshots
 
-![Screenshot 1](screenshots/1CB99801-CFC7-4101-93C8-4A478C9EB403.png)
-![Screenshot 2](screenshots/6C7DE51A-DA5C-4C6E-AB02-DD6AE0D5578C.png)
-![Screenshot 3](screenshots/D7EDDAC4-3669-4F03-A46A-84B12D619891.png)
+![Screenshot 1](screenshots/%7B1CB99801-CFC7-4101-93C8-4A478C9EB403%7D.png)
+![Screenshot 2](screenshots/%7B6C7DE51A-DA5C-4C6E-AB02-DD6AE0D5578C%7D.png)
+![Screenshot 3](screenshots/%7BD7EDDAC4-3669-4F03-A46A-84B12D619891%7D.png)
 
 ### Build
 To build the application for production:
