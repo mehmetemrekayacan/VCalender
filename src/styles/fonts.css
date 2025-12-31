@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+body {
+  font-family: 'DM Sans', sans-serif;
+}
+
+h1, h2, h3 {
+  font-family: 'DM Sans', sans-serif;
+}
+
+/* Italic text uses Playfair Display for emotional quotes */
+em, i, .italic {
+  font-family: 'Playfair Display', serif;
+}

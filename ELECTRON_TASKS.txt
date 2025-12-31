@@ -1,0 +1,30 @@
+﻿Windows Uygulaması Yapım Adımları
+==================================
+
+1. Electron bağımlılıklarını projeye ekle
+   - electron, electron-builder gibi gerekli paketleri package.json'a ekle ve yükle
+   
+2. Electron main process dosyası oluştur
+   - electron/main.js - Uygulama penceresini yöneten ana process
+   - Pencere konumu (sağ üst), boyut, her zaman üstte kalma gibi ayarları içerecek
+   
+3. Electron preload script oluştur
+   - electron/preload.js - Güvenli iletişim için preload script
+   
+4. Package.json'ı Electron için yapılandır
+   - Main entry point, electron-builder config, build scripts ekle
+   
+5. Vite config'i Electron için ayarla
+   - Build output'u Electron'un okuyabileceği şekilde yapılandır
+   
+6. Electron ikonu ekle
+   - Windows .ico formatında uygulama ikonu oluştur
+   
+7. Test build yap
+   - Uygulamayı çalıştır ve test et - npm run electron:dev
+   
+8. Production build ve .exe oluştur
+   - electron-builder ile Windows installer (.exe) oluştur
+
+==================================
+Hazır mısın? İlk adımdan başlayalım!
