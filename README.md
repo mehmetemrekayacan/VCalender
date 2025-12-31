@@ -30,6 +30,7 @@ VCalender is a modern, responsive calendar application built with Electron and R
    yarn install
    ```
 
+
 ### Development
 To start the development server:
 ```sh
@@ -37,6 +38,14 @@ npm run dev
 # or
 yarn dev
 ```
+
+## Screenshots
+
+<p align="center">
+   <img src="screenshots/{1CB99801-CFC7-4101-93C8-4A478C9EB403}.png" alt="Screenshot 1" width="400" />
+   <img src="screenshots/{6C7DE51A-DA5C-4C6E-AB02-DD6AE0D5578C}.png" alt="Screenshot 2" width="400" />
+   <img src="screenshots/{D7EDDAC4-3669-4F03-A46A-84B12D619891}.png" alt="Screenshot 3" width="400" />
+</p>
 
 ### Build
 To build the application for production:
